@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Mohamed Abdo Abo Fayod - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            margin: 10px 0;
+        }
+        .contact-info, .skills {
+            margin-top: 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ahmed Mohamed Abdo Abo Fayod</h1>
+        <p><strong>Electrical Site Engineer</strong></p>
+        <div class="contact-info">
+            <p>Birthdate: 25/01/1997</p>
+            <p>Phone: 01063542943</p>
+            <p>Email: <a href="mailto:ahmedfayod761@gmail.com">ahmedfayod761@gmail.com</a></p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/ahmed-fayod/">linkedin.com/in/ahmed-fayod</a></p>
+            <p>Current Location: New Cairo, Cairo, Egypt</p>
+            <p>Birth Location: Damnhour, Elbehira, Egypt</p>
+        </div>
+
+        <div class="section">
+            <h2>Career Objective</h2>
+            <p>I am a junior electrical engineer with good skills in using modeling programs. I work as an infrastructure technical office and site engineer, and I am applying to enhance my skills and experience in a leading company.</p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p><strong>Bachelor degree in Electrical Engineering</strong> - Faculty of Engineering, New Cairo Academy (NCA), Egypt.</p>
+            <p>Major: Electrical power and machines (2015-2020)</p>
+            <p>Accumulative Degree: Very Good</p>
+            <p>Graduation Project: Excellent+</p>
+        </div>
+
+        <div class="section">
+            <h2>Work Experience</h2>
+            <p><strong>Infrastructure Technical Office Engineer</strong> - 5M CO for electrical contracting (Jul 2022 – Apr 2023)</p>
+            <ul>
+                <li>Shop drawing for MV and street lighting infrastructure network.</li>
+                <li>Preparing BOQ and invoices for multiple projects.</li>
+            </ul>
+
+            <p><strong>Infrastructure Site Engineer</strong> - Arab Electrical Power (Jan 2022 – Jul 2022)</p>
+            <ul>
+                <li>LV network and street lighting network projects in Badr City.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h2>Internships and Courses</h2>
+            <p>Training at the Egyptian Company for Metro (Jun 2019 - Jul 2019)</p>
+            <p>Training at Arab Contractors Osman Ahmed Osman & Co (Jul 2018 - Aug 2018)</p>
+            <p>Power System Distribution Diploma (Oct 2019 - Dec 2019)</p>
+        </div>
+
+        <div class="skills section">
+            <h2>Skills</h2>
+            <p><strong>Languages:</strong> Arabic (native), English (very good)</p>
+            <p><strong>Software:</strong> AutoCAD, DIALux, CS50, ETAB, Excel, Word, PowerPoint</p>
+            <p><strong>Competencies:</strong> Communication, Teamwork, Problem Solving, Self-learning</p>
+        </div>
+    </div>
+</body>
+</html>
